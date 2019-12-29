@@ -1,4 +1,4 @@
-This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. 
+This assignment uses data from the UC Irvine Machine Learning Repository(http://archive.ics.uci.edu/ml/index.php), a popular repository for machine learning datasets. 
 In particular, we will be using the “Individual household electric power consumption Data Set” which I have made available on the course web site:
 
 Dataset: https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip [20Mb]
